@@ -6,8 +6,8 @@ This repo contains the question-answering dataset proposed in the paper `cpgQA: 
 
 The resource used to make this dataset is a [clinical practice guideline on opioid therapy](https://www.healthquality.va.gov/guidelines/Pain/cot/VADoDOTCPG022717.pdf).
 
-cpgQA has 1097 QA pairs and 190 unique contexts.
+`cpgQA` has 1097 QA pairs and 190 unique contexts.
 
-The `cogQA` dataset resides in the `dataset` folder. The dataset is saved in both CSV (cpgQA-v1.0.csv) and JSON (cpgQA-v1.0.json) formats.
+The `cpgQA` dataset resides in the `dataset` folder. The dataset is saved in both CSV (cpgQA-v1.0.csv) and JSON (cpgQA-v1.0.json) formats.
 
 The `dataset` folder also contains the unlabeled training set (unlabeled_train_target.json) used for experimenting with [BioADAPT-MRC](https://academic.oup.com/bioinformatics/article/38/18/4369/6649678).
