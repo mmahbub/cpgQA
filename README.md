@@ -10,4 +10,4 @@ The resource used to make this dataset is a [clinical practice guideline on opio
 
 The `cpgQA` dataset resides in the `dataset` folder. The dataset is saved in both CSV (`cpgQA-v1.0.csv`) and JSON (`cpgQA-v1.0.json`) formats.
 
-The `dataset` folder also contains the unlabeled training set (`unlabeled_train_target.json`) used for experimenting with [BioADAPT-MRC](https://academic.oup.com/bioinformatics/article/38/18/4369/6649678).
+The `dataset` folder also contains the unlabeled target-domain training set (`unlabeled_train_target.json`) used for experimenting with [BioADAPT-MRC](https://academic.oup.com/bioinformatics/article/38/18/4369/6649678).
