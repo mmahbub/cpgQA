@@ -1,5 +1,4 @@
 # cpgQA
-<<<<<<< HEAD
 
 ## Question Answering Dataset for Clinical Practice Guidelines
 
